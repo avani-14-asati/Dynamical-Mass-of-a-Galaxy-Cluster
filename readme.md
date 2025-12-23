@@ -10,7 +10,7 @@ Python ,Jupyter Notebook, Matplotlib,Pandas,Numpy
 2. Run all cells sequentially
 3.Make sure u have Matplotlib,Pandas and NumPy installed on your device
 
-
+#Approach
 1. The original dataset contained multiple objects with measured spectroscopic redshift
 (specz) values.
 2. A histogram and boxplot of redshift values was plot which revealed the general
@@ -27,4 +27,6 @@ galaxy clusters.
 bound.
 8. This dynamical mass is typically much larger than the luminous mass (from visible
 stars), hinting at the presence of dark matter — a key conclusion in cluster astrophysics.
+
+
 
