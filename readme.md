@@ -7,8 +7,9 @@ Python ,Jupyter Notebook, Matplotlib,Pandas,Numpy
 
 # How to Run
 1. Open `Dynamical_Mass.ipynb`
-2. Run all cells sequentially
-3.Make sure u have Matplotlib,Pandas and NumPy installed on your device
+2. Download the data from the folder provided or you can use ur own data set , just enter the proper path in the code 
+3. Run all cells sequentially
+4.Make sure u have Matplotlib,Pandas and NumPy installed on your device
 
 #Approach
 1. The original dataset contained multiple objects with measured spectroscopic redshift
@@ -27,6 +28,7 @@ galaxy clusters.
 bound.
 8. This dynamical mass is typically much larger than the luminous mass (from visible
 stars), hinting at the presence of dark matter — a key conclusion in cluster astrophysics.
+
 
 
 
