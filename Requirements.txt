@@ -1,0 +1,3 @@
+Requirements 
+1 Softwares-Python , Jupyter
+2 Libraries - Pandas, Matplotlib, Numpy
